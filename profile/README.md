@@ -1,4 +1,4 @@
 # Serapeum
-![main-image](images/main-image.jpg)
+![main-image](profile/images/main-image.jpg)
 ## Packages dependency
-![dependency](images/packages-dependency.jpg)
+![dependency](profile/images/packages-dependency.jpg)
