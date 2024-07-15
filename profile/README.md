@@ -1,6 +1,10 @@
 # Serapeum
-![main-image](profile/images/main-image.jpg)
+![main-image](images/main-image.jpg)
 ## Packages dependency
-![dependency](profile/images/packages-dependency.jpg)
+![dependency](images/packages-dependency.jpg)
 ## Top Level Functionality
-![dependency](profile/images/top-level-functionality.jpg)
+![dependency](images/top-level-functionality.jpg)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Serapieum-of-alex/Hapi,Serapieum-of-alex/pyramids,Serapieum-of-alex/statista&type=Date)](https://star-history.com/#Serapieum-of-alex/Hapi&Serapieum-of-alex/pyramids&Serapieum-of-alex/statista&Date)
